@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 🚗 I work as a .NET Developer in the auto industry
-- 🥋 I’m currently building tools to support martial arts teachers using
+- 🥋 I’m currently building tools to support martial arts coaches using
   - C#
   - React Native
   - Postgres
