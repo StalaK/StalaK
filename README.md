@@ -9,7 +9,7 @@
   - Update Datr
   - Small improvements to Roulettesy
 - 🌍 [joshh.co.uk](https://www.joshh.co.uk)
-- 🛍 Check out my Etsy shopping tool [Roulettesy](https://roulettesy.netlify.app/)
+- 🛍 Check out my Etsy shopping tool [Roulettesy](https://roulettesy.joshh.co.uk/)
 <!---
 StalaK/StalaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
