@@ -1,13 +1,9 @@
 - 👋 Hi, I’m Josh
 - 🚗 I work as a .NET Developer in the auto industry
-- 🥋 I’m currently building tools to support martial arts coaches using
-  - C#
-  - React Native
-  - Postgres
 - ⚙ In the pipeline:
-  - Profile UI refresh
-  - Update Datr
-  - Small improvements to Roulettesy
+  - 🛞 Roulettesy rewrite
+  - ⛩️ Tenko
+  - 🏒 Leeds Knights Bluesky Bot
 - 🌍 [joshh.co.uk](https://www.joshh.co.uk)
 - 🛍 Check out my Etsy shopping tool [Roulettesy](https://roulettesy.joshh.co.uk/)
 <!---
