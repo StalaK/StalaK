@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 🚗 I work as a .NET Developer in the auto industry
+- 🖥️ Currently working as a .NET developer
 - ⚙ In the pipeline:
   - 👤 Profile rewrite (with blog!)
   - 🛞 Roulettesy rewrite
